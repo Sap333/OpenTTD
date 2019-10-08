@@ -1,7 +1,8 @@
-# OpenTTD
+# OpenTTD for Ubuntu Disco 19.04 
 
 ## Table of contents
-
+- 0.0) [Ubuntu 19.04](#00-release)
+- 0.1) [An imortant note](#01-note)
 - 1.0) [About](#10-about)
 - 2.0) [Contacting](#20-contacting)
     - 2.1) [Reporting bugs](#21-reporting-bugs)
@@ -26,6 +27,16 @@
 - 9.0) [Troubleshooting](#90-troubleshooting)
 - 10.0) [Licensing](#100-licensing)
 - X.X) [Credits](#xx-credits)
+
+## 0.0) Ubuntu 19.04
+
+You can download OpenTTD's DEB-package v1.9.3 for Ubuntu 19.04 Disco (here)[https://github.com/Sap333/OpenTTD/releases] (at the release section of this repository).
+
+## 0.1) An important note
+
+This for is for packaging binary distribution of OpenTTD only!
+
+For developements please use the (original repository)[https://github.com/OpenTTD/OpenTTD]! 
 
 ## 1.0) About
 
